@@ -235,6 +235,6 @@ A simplified diagram of the program flow is shown below:
 
 ## Next Steps
 
-RS-485 supports inexpensive local networks and multidrop communications links.  It is generally accepted that RS-485 can be used with data rates up to 10 Mbit/s or, at lower speeds, distances up to 1,200 m (4,000 ft).  RS-485 with MODBUS is widely used in instrumentation applications and would be a suggested `next step` to explore.  If you would like to explore further, feel free to review the [MODBUS RTU example](<https://github.com/K0I05/KINCONY-S3_RTU_20250110>).
+RS-485 supports inexpensive local networks and multidrop communications links.  It is generally accepted that RS-485 can be used with data rates up to 10 Mbit/s or, at lower speeds, distances up to 1,200 m (4,000 ft).  RS-485 with MODBUS is widely used in instrumentation applications and would be a suggested `next step` to explore.  If you would like to explore further, feel free to review the [MODBUS RTU example](<https://github.com/K0I05/KINCONY-S3_RTU>).
 
 Copyright (c) 2025 Eric Gionet (<gionet.c.eric@gmail.com>)
